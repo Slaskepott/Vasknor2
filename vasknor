@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+
+
+<head>
+<title>
+Vasknor Ans
+</title>
+
+<style>
+ul#navbar li {
+    display:inline;
+}
+</style>
+
+</head>
+
+<body>
+
+<nav>
+<ul id="navbar">
+<li> <a href="tjenester.html">V&#229;re tjenester</a></li>
+<li> <a href="garanti.html">V&#229;r garanti</a></li>
+<li> <a href="ansatte.html">V&#229;re ansatte</a></li>
+<li> <a href="jobb.html">Jobbe hos oss?</a></li>
+<li> <a href="kontakt.html">Kontakt oss</a></li>
+
+
+
+
+<h1>Vasknor ANS</h1>
+
+<h3>Bransjeledende innen renhold og vedlikehold</h3>
+
+<p>Om Norvask ANS</p>
+<p>Vi er en tradisjonsrik bedrift med visjon om &#229; bli kjent som leverand&#248;rer av bransjens mest effektive, fleksible og billige kvalitetstjenester innen rengj&#248;ring og service for private hjem og bedrifter i Oslo. V&#229;rt m&#229;l er &#229; sikre v&#229;re kunder p&#229;litelige tjenester til bransjens laveste priser. Vi tilbyr totall&#248;sninger for renhold av hjem, kontorbygg, garasjer, hytter og lignende. For &#229; sikre tilfredsstilte kunder p&#229; hvert eneste oppdrag har vi utviklet et tilbakemeldingssystem som gj&#248;r at vi aldri slutter &#229; forbedre oss.</p>
+<p>V&#229;r forretningsid&#233;</p>
+<p>I lang tid har renhold v&#230;rt knyttet til store utgifter og tilsynsarbeid. Vi &#248;nsker &#229; gi deg som kunde mer tid til &#229; gj&#248;re det du vil, uten &#229; m&#229;tte vrenge lommeboken. Gjennom v&#229;re avtaler med leverand&#248;rer av renholdsutstyr, effektiviserte rutiner og sm&#229; kontorer kan vi tilby bransjens laveste priser. Det er dette som gj&#248;r at vi kan opprettholde bransjens modigste <a href="garanti.html">garanti</a> som vi er veldig stolte av.</p>
+
+
+
+
+</body>
+
+
+
+
+
+</html>
